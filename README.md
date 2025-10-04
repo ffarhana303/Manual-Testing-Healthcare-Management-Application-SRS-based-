@@ -1,4 +1,4 @@
-# Manual-Testing-Healthcare-Management-Application-SRS-based-
+
 <!-- 🌟 PROJECT BANNER -->
 <h1 align="center">🏥 Healthcare Application — Manual Testing Documentation</h1>
 
